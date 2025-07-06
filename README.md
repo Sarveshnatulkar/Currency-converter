@@ -13,4 +13,4 @@ A simple and responsive currency converter web app built using HTML, CSS, and Ja
 - JavaScript
 
 ## 🌐 Live Demo
-[👉 View Live Project](https://your-username.github.io/your-repo-name/)
+[👉 View Live Project](https://sarveshnatulkar.github.io/Currency-converter/)
